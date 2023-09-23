@@ -1,4 +1,3 @@
-# for all the dll
 ./build/*.dll
 /build/*.dll
 build/*.dll
